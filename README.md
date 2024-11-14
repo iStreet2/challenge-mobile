@@ -13,7 +13,7 @@ The challenge consists of developing a currency conversion app. The app should a
 
 The app must consume the [Mobile Challenge API](https://documenter.getpostman.com/view/11242574/2sA3Qqgt3W), created solely for the purpose of this challenge, and therefore does not provide real data. The API only presents exchange rates relative to a reference currency (US Dollar - `USD`); if the user wants to convert between any other two currencies, it will be necessary to first convert the source currency to dollars, and then from dollars to the desired currency.
 
-* Android: _Kotlin_ | iOS: _Swift_
+* Android: iOS: _Swift_
 * The app should have two main screens:
    * The conversion screen should include:
       * Two buttons allowing the user to select the source and destination currencies.
